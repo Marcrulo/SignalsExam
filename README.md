@@ -1,5 +1,5 @@
 # About the project
-This is an exam project from the course, "Signals and Data" (DTU, Kgs. Lyngby)
+This is an exam project from the course, "(02462) Signals and Data" (Technical University of Denmark, 2021)
 
 Our main task is to classify a movie's genre solely based on its plot (a little piece of text about the movie). 
 We try to achieve this using pre-defined GloVe-embeddings; a method of embeddings the plot in a many-dimensional vector space. 
